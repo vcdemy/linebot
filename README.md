@@ -4,22 +4,13 @@
 
 * [唯客學院網址](https://www.vcdemy.com)
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
-* [唯客學院線上課程](https://khpy.teachable.com)
+* [唯客學院線上課程](https://vcdemy.teachable.com)
 
 ## 實作範例
 
 * [關於 Line 機器人 (使用 ngrok 測試)](https://youtu.be/PakBk5F3O5w)
 
-## 課程內容：
-
-### 1. 文件導覽
-
-* [Messaging API Overview](https://developers.line.biz/en/docs/messaging-api/overview/)
-* [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
-* [ngrok](https://ngrok.com/)
-* [Heroku](https://www.heroku.com/)
-
-### 2. 實作引導
+## 課程內容
 
 * Line Bot 簡介
 * 如何寫 Line Bot？
@@ -29,8 +20,14 @@
 * 使用 Flask 寫 webhook
 * 實作一個 Echo Bot
 * 使用 ngrok 測試
-* 佈署上 Heroku
+* 佈署 (使用 heroku, render, 或vercel)
+* (依自己的需求)實做一個特殊用途機器人 
 
-### 3. 自我挑戰
+## 相關連結
 
-* 實做一個股票(報價, 新聞)機器人
+* [Messaging API Overview](https://developers.line.biz/en/docs/messaging-api/overview/)
+* [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
+* [ngrok](https://ngrok.com/)
+* [Heroku](https://www.heroku.com/)
+* [Render](https://render.com/)
+* [Vercel](https://vercel.com/)
