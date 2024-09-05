@@ -16,6 +16,8 @@
 * 如何寫 Line Bot？
 * 如何接收多媒體訊息？
 * 如何使用 Line 的 QRCode Scanner？
+* 如何使用 Template Message？
+* 如何使用 Flex Message？
 * 如何使用 LIFF？
 * 使用 Flask 寫 webhook
 * 實作一個 Echo Bot
